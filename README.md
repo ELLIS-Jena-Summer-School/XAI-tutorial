@@ -3,13 +3,11 @@
 *ELLIS Summer School: AI for Earth and Climate Sciences*  
 *Jena, Germany — September 1–5, 2025*
 
----
 
 ## Overview
 Hands-on materials for the XAI session.  
 We will explore how attribution methods, in particular **Integrated Gradients (IG)**, can be applied to time-series models in Earth science.
 
----
 
 ## Getting Started
 Create the environment from the provided file:
