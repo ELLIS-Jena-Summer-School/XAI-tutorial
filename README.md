@@ -10,6 +10,13 @@ We will explore how attribution methods, in particular **Integrated Gradients (I
 
 
 ## Getting Started
+Clone the repository:
+
+```bash
+git clone https://github.com/ELLIS-Jena-Summer-School/XAI-tutorial.git
+cd XAI-tutorial
+```
+
 Create the environment from the provided file:
 
 ```bash
